@@ -1,5 +1,7 @@
 Vici
 ====
+*This module has been adopted by the strongSwan project. Please direct any pull requests or issues there.*
+https://github.com/strongswan/strongswan/tree/master/src/libcharon/plugins/vici/python
 
 A simple python library that allow control of strongSwan over the vici
 interface which was introduced in version 5.2.0. It is aimed to be straight
